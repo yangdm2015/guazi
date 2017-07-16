@@ -4,9 +4,6 @@ var config = require('../config')
 if (!process.env.NODE_ENV) {
   process.env.NODE_ENV = JSON.parse(config.dev.env.NODE_ENV)
 }
-var https = require('https')
-var cheerio = require('cheerio')
-var url = 'https://www.guazi.com/bj/dazhong/#bread'
 var opn = require('opn')
 var path = require('path')
 var express = require('express')
@@ -82,25 +79,10 @@ if (autoOpenBrowser && process.env.NODE_ENV !== 'testing') {
 }
 _resolve()
 })
-function filterChapters(html) {
-  var $ = cheerio.load(html);
 
-  var cars = $('.carlist li');
-  console.log('cars[0].children[1]',cars[0].children[1])
-}
+var crawler =  require('./fn/crawler').crawler
+crawler()
 
-https.get(url, function (res) {
-  var html = ''
-  res.on('data', function (data) {
-    html += data;
-    // console.log('html =',html)
-  })
-  res.on('end', function () {
-    filterChapters(html)
-  })
-}).on('error', function () {
-  console.log('获取数据出错')
-})
 
 
 var server = app.listen(port)
