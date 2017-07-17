@@ -6,7 +6,7 @@ var Promise = require("bluebird");
 var https = require('https')
 let fs = require('fs')
 
-function getcars({urls,carInfo}) {
+function getcars({urls, carInfo}) {
   return new Promise(function (resolve, rej) {
     let url = urls.shift()
     https.get(url, function (res) {
@@ -17,10 +17,8 @@ function getcars({urls,carInfo}) {
       res.on('end', function () {
         let newCatInfo = filterCars(html)
         carInfo = carInfo.concat(newCatInfo)
-        console.log('carInfo.length = ',carInfo.length)
-        fs.writeFile('car-info.json', JSON.stringify(carInfo),function(err){
-          resolve({urls,carInfo})
-        })
+        console.log('carInfo.length = ', carInfo.length)
+        resolve({urls, carInfo})
       })
       res.on('error', function (e) {
         console.log('获取数据出错')

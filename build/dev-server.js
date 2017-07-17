@@ -7,6 +7,7 @@ if (!process.env.NODE_ENV) {
 var opn = require('opn')
 var path = require('path')
 var express = require('express')
+var apiRoutes = express.Router()
 var webpack = require('webpack')
 var proxyMiddleware = require('http-proxy-middleware')
 var webpackConfig = require('./webpack.dev.conf')
@@ -82,8 +83,8 @@ _resolve()
 
 var crawler =  require('./fn/crawler').crawler
 crawler()
-
-
+let router = require('./server/router').router
+router(app,apiRoutes)
 
 var server = app.listen(port)
 
