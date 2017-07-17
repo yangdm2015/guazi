@@ -2,7 +2,7 @@
  * Created by Shan on 2017/7/15.
  */
 let cheerio = require('cheerio')
-function filterCars(html) {
+function getCarDetail(html) {
   let $ = cheerio.load(html)
   let carsas = $('.carlist li a')
   let carsInfo = []
@@ -19,4 +19,4 @@ function filterCars(html) {
   return carsInfo
   // fs.writeFile('cars-info.json', JSON.stringify(carsInfo))
 }
-exports.filterCars = filterCars
+exports.getCarDetail = getCarDetail

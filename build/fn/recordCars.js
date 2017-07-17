@@ -18,6 +18,8 @@ function recordCars ({urls, carInfo}) {
       })
       res.on('end', function () {
         let newCatInfo = filterCars(html)
+
+
         carInfo = carInfo.concat(newCatInfo)
         fs.writeFile(recordFile, JSON.stringify(carInfo), function (err) {
           let rt = Math.floor(Math.random() * 2030)
