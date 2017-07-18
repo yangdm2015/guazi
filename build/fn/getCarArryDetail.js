@@ -4,7 +4,8 @@
 let baseUrl = 'https://www.guazi.com'
 let getHtml = require('./getHtml').getHtml
 let cheerio = require('cheerio')
-function getCarDetail (a) {
+function getCarArryDetail ({carsInfo, newCarsInfo}) {
+  let a = carsInfo.shift().a
   let url = baseUrl + a
   return getHtml(url).then(html => {
     let $ = cheerio.load(html)
@@ -14,8 +15,9 @@ function getCarDetail (a) {
     let location = $('.assort .three span').text()
     let guaziOriginPrice = $('.newcarprice').text()
     guaziOriginPrice = /(新车指导价)(\d+(.)\d+)/g.exec(guaziOriginPrice)[2]
-    let carsInfo = {year, month, location, guaziOriginPrice}
-    return carsInfo
+    let carsInfo = {...carsInfo, year, month, location, guaziOriginPrice}
+    newCarsInfo.push(carsInfo)
+    return {carsInfo, newCarsInfo}
   })
 }
-exports.getCarDetail = getCarDetail
+exports.getCarArryDetail = getCarArryDetail

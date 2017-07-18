@@ -9,7 +9,7 @@ let getHtml = require('./getHtml').getHtml
 let filterCars = require('./filterCars').filterCars
 let getCarDetail = require('./getCarDetail').getCarDetail
 let urlInit = 'https://www.guazi.com/bj/buy/#bread'
-let baseUrl = 'https://www.guazi.com'
+
 let getCarBrandId = require('./getCarBrandId').getCarBrandId
 
 function crawler () {
@@ -29,19 +29,25 @@ function crawler () {
     .then(html => {
       // console.log('html =',html)
       console.log('html back')
-      let cars = filterCars(html)
-      console.log('cars[0] = ',cars[0])
-      let brandId = getCarBrandId(cars[0])
-      console.log('brandId = ',brandId)
+      return filterCars(html)
+      // let cars = filterCars(html)
+      // console.log('cars[0] = ',cars[0])
+      // return getCarDetail(cars[0].a)
+      // let brandId = getCarBrandId(cars[0])
+      // console.log('brandId = ',brandId)
       // let detailUrl = baseUrl + cars[0].a
       // console.log('detailUrl = ',detailUrl)
       // return getHtml(detailUrl)
       // console.log(cars[0])
+    }).then(e => {
+      console.log('newCarsInfo = ', e.newCarsInfo)
+    }).catch(e => {
+      console.log('e = ', e)
     })
-    // .then(html => {
-    //   let detail = getCarDetail(html)
-    //   console.log('detail = ', detail)
-    // })
+  // .then(carsInfo => {
+  //   // let detail = getCarDetail(html)
+  //   console.log('carsInfo = ', carsInfo)
+  // })
   // carsJsongen()
 }
 exports.crawler = crawler

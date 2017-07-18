@@ -9,9 +9,9 @@ function getCarBrandId (car) {
     let item = brandList[i]
     let result = title.match(item.big_ppname)
     if (result) {
-      console.log('result = ', result)
+      // console.log('result = ', result)
       if (result && result.length) {
-        console.log('item.id = ', item.id)
+        // console.log('item.id = ', item.id)
         brandId = item.id
         break
       }
