@@ -1,7 +1,7 @@
 /**
  * Created by Shan on 2017/7/15.
  */
-let getCarArryDetail = require('./getCarDetail').getCarArryDetail
+let getCarArryDetail = require('./getCarArryDetail').getCarArryDetail
 let getCarBrandId = require('./getCarBrandId').getCarBrandId
 let cheerio = require('cheerio')
 function filterCars (html) {
@@ -21,17 +21,21 @@ function filterCars (html) {
     let car = {
       title, ageInfo, mileage, price, a, brandId
     }
-    if (+price < 12) {
+    if (+price < 8.5) {
       carsInfo.push(car)
       getHtmlStack.push(getCarArryDetail)
     }
-    let newCarsInfo = []
+    // carsInfo.push(car)
+  })
+  // console.log('carsInfo.length = ',carsInfo.length)
+  let newCarsInfo = []
+  if (getHtmlStack.length === 0) {
+    return Promise.resolve({carsInfo, newCarsInfo})
+  } else {
     return getHtmlStack.reduce(function (cur, next) {
       return cur.then(next)
     }, Promise.resolve({carsInfo, newCarsInfo}))
-    // carsInfo.push(car)
-  })
-
+  }
   // return carsInfo
 }
 exports.filterCars = filterCars
