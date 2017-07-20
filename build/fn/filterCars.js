@@ -4,6 +4,7 @@
 let getCarArryDetail = require('./getCarArryDetail').getCarArryDetail
 let getCarBrandId = require('./getCarBrandId').getCarBrandId
 let cheerio = require('cheerio')
+let sumarySurvive = require('./sumarySurvive').sumarySurvive
 function filterCars (html) {
   let $ = cheerio.load(html)
   let carsas = $('.carlist li a')
@@ -17,11 +18,16 @@ function filterCars (html) {
     mileage = mileage.split('万')[0]
     let price = $(item).children('.t-price').children('p').text()
     let brandId = getCarBrandId({title})
+
     price = price.split('万')[0]
     let car = {
       title, ageInfo, mileage, price, a, brandId
     }
-    if (+price < 8.5) {
+    // if (price < 8.5) {
+    //   console.log('car =', car)
+    // }
+    if (sumarySurvive(car)) {
+      // console.log('Survived!,car = ', car)
       carsInfo.push(car)
       getHtmlStack.push(getCarArryDetail)
     }

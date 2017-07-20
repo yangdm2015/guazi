@@ -22,6 +22,7 @@ function getCarArryDetail ({carsInfo, newCarsInfo}) {
     let month = time.split('-')[1]
     let location = $('.assort .three span').text()
     let guaziOriginPrice = $('.newcarprice').text()
+    let auto = $('.assort .last span').text()
     if (guaziOriginPrice.search('新车指导价') > -1) {
       guaziOriginPrice = /(新车指导价)(\d+(.)\d+)/g.exec(guaziOriginPrice)[2]
     } else {
@@ -32,11 +33,14 @@ function getCarArryDetail ({carsInfo, newCarsInfo}) {
     car.month = month
     car.location = location
     car.guaziOriginPrice = guaziOriginPrice
-    newCarsInfo.push(car)
+
     times++
     let rt = rademTimeGen(2030, times)
     console.log('car.title = ', car.title, 'and rt = ', rt)
     return new Promise(resolve => {
+      if (location === '北京' && auto !== '手动') {
+        newCarsInfo.push(car)
+      }
       setTimeout(function () {
         resolve({carsInfo, newCarsInfo})
       }, rt)
