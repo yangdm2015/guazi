@@ -8,6 +8,7 @@ function getCarDetail (a) {
   let url = baseUrl + a
   return getHtml(url).then(html => {
     let $ = cheerio.load(html)
+
     let time = $('.assort .one span').text()
     let year = time.split('-')[0]
     let month = time.split('-')[1]

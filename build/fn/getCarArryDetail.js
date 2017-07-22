@@ -23,6 +23,9 @@ function getCarArryDetail ({carsInfo, newCarsInfo}) {
     let location = $('.assort .three span').text()
     let guaziOriginPrice = $('.newcarprice').text()
     let auto = $('.assort .last span').text()
+    let focusNum = $($('.js-layer-tip .fc-green')[0]).text()
+    let soldAlready = $('.graybtn');
+
     if (guaziOriginPrice.search('新车指导价') > -1) {
       guaziOriginPrice = /(新车指导价)(\d+(.)\d+)/g.exec(guaziOriginPrice)[2]
     } else {
@@ -33,6 +36,7 @@ function getCarArryDetail ({carsInfo, newCarsInfo}) {
     car.month = month
     car.location = location
     car.guaziOriginPrice = guaziOriginPrice
+    car.focusNum = focusNum
 
     times++
     let rt = rademTimeGen(2030, times)

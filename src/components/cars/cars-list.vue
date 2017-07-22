@@ -14,6 +14,15 @@
       <el-table-column prop="price" align="center" label="价格" min-width="150"
                        sortable>
       </el-table-column>
+      <el-table-column prop="usedAge" align="center" label="使用年限" min-width="150"
+                       sortable>
+      </el-table-column>
+      <el-table-column prop="rate" align="center" label="出售价/新车价" min-width="150"
+                       sortable>
+      </el-table-column>
+      <el-table-column prop="ratePerYear" align="center" label="出售价/新车价/每年" min-width="150"
+                       sortable>
+      </el-table-column>
       <el-table-column prop="price" align="center" label="地址" min-width="150"
                        sortable>
         <template scope="scope">
@@ -51,6 +60,9 @@
             let p = car.price
             car.price = p.split('万')[0]
             car.a = baseUrl + car.a
+            car.rate = '0.' + Math.floor(car.price / car.guaziOriginPrice * 10)
+            car.usedAge = 2017 - car.year
+            car.ratePerYear =Math.floor(car.rate/car.usedAge * 100)
             return car
           })
           this.carsData = this.carsData.filter(item => {
