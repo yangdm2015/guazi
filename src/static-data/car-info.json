@@ -10,7 +10,8 @@
     "year": "2010",
     "month": "12",
     "location": "北京",
-    "guaziOriginPrice": "20.49"
+    "guaziOriginPrice": "20.49",
+    "focusNum": "39"
   },
   {
     "title": "比亚迪思锐 2013款 1.5TID 自动尊贵型",
@@ -23,7 +24,8 @@
     "year": "2013",
     "month": "12",
     "location": "北京",
-    "guaziOriginPrice": "13.12"
+    "guaziOriginPrice": "13.12",
+    "focusNum": "39"
   },
   {
     "title": "日产骐达 2008款 1.6L 自动时尚型",
@@ -36,449 +38,64 @@
     "year": "2010",
     "month": "12",
     "location": "北京",
-    "guaziOriginPrice": "12.68"
+    "guaziOriginPrice": "12.68",
+    "focusNum": "109"
   },
   {
     "title": "福特福克斯 2012款 三厢 1.6L 自动风尚型",
-    "ageInfo": "2013年|2.9万公里",
-    "mileage": "2.9",
-    "price": "7.70",
-    "a": "/bj/3c6af93077f83dcbx.htm",
+    "ageInfo": "2015年|4.6万公里",
+    "mileage": "4.6",
+    "price": "7.80",
+    "a": "/bj/e16c75ca1546c666x.htm",
     "brandId": "2000446",
     "originPriceMiss": true,
-    "year": "2013",
-    "month": "04",
-    "location": "北京",
-    "guaziOriginPrice": "15.62"
-  },
-  {
-    "title": "Smartsmart fortwo 2011款 1.0T 敞篷激情版",
-    "ageInfo": "2011年|4.7万公里",
-    "mileage": "4.7",
-    "price": "7.50",
-    "a": "/bj/9dfdeca676c963b8x.htm",
-    "brandId": "2000400",
-    "originPriceMiss": true,
-    "year": "2011",
-    "month": "04",
-    "location": "北京",
-    "guaziOriginPrice": "20.41"
-  },
-  {
-    "title": "奔腾X80 2013款 2.0L 自动舒适型",
-    "ageInfo": "2014年|3.7万公里",
-    "mileage": "3.7",
-    "price": "8.10",
-    "a": "/bj/fcdf07f69d1940a2x.htm",
-    "brandId": "2000416",
-    "originPriceMiss": true,
-    "year": "2014",
+    "year": "2015",
     "month": "01",
     "location": "北京",
-    "guaziOriginPrice": "14.52"
-  },
-  {
-    "title": "日产阳光 2011款 1.5XE CVT舒适版",
-    "ageInfo": "2013年|1.9万公里",
-    "mileage": "1.9",
-    "price": "5.90",
-    "a": "/bj/dd2cbd634f88983cx.htm",
-    "brandId": "2000525",
-    "originPriceMiss": true,
-    "year": "2013",
-    "month": "06",
-    "location": "北京",
-    "guaziOriginPrice": "10.07"
-  },
-  {
-    "title": "奔腾B50 2009款 1.6 自动豪华型",
-    "ageInfo": "2010年|4.0万公里",
-    "mileage": "4.0",
-    "price": "4.50",
-    "a": "/bj/0fd44944a8478b64x.htm",
-    "brandId": "2000416",
-    "originPriceMiss": true,
-    "year": "2010",
-    "month": "12",
-    "location": "北京",
-    "guaziOriginPrice": "11.92"
-  },
-  {
-    "title": "福特福克斯 2012款 两厢 1.6L 自动风尚型",
-    "ageInfo": "2012年|2.4万公里",
-    "mileage": "2.4",
-    "price": "7.60",
-    "a": "/bj/3fcae1411433b5e4x.htm",
-    "brandId": "2000446",
-    "originPriceMiss": true,
-    "year": "2012",
-    "month": "09",
-    "location": "北京",
-    "guaziOriginPrice": "15.62"
-  },
-  {
-    "title": "雪佛兰乐风 2009款 1.4 SE AT",
-    "ageInfo": "2009年|4.2万公里",
-    "mileage": "4.2",
-    "price": "3.20",
-    "a": "/bj/9c3aa7db5f5ac797x.htm",
-    "brandId": "2000563",
-    "originPriceMiss": true,
-    "year": "2009",
-    "month": "12",
-    "location": "北京",
-    "guaziOriginPrice": "9.76"
-  },
-  {
-    "title": "铃木雨燕 2014款 1.5L 自动时尚型",
-    "ageInfo": "2016年|1.6万公里",
-    "mileage": "1.6",
-    "price": "6.20",
-    "a": "/bj/13822ddf37b30a0cx.htm",
-    "brandId": "2000502",
-    "originPriceMiss": true,
-    "year": "2016",
-    "month": "11",
-    "location": "北京",
-    "guaziOriginPrice": "8.12"
-  },
-  {
-    "title": "福特福克斯 2012款 两厢 1.6L 自动风尚型",
-    "ageInfo": "2012年|4.8万公里",
-    "mileage": "4.8",
-    "price": "6.90",
-    "a": "/bj/eb83f784739060e1x.htm",
-    "brandId": "2000446",
-    "originPriceMiss": true,
-    "year": "2012",
-    "month": "08",
-    "location": "北京",
-    "guaziOriginPrice": "15.62"
-  },
-  {
-    "title": "别克英朗 2011款 GT 1.8L 自动时尚版真皮款",
-    "ageInfo": "2011年|4.7万公里",
-    "mileage": "4.7",
-    "price": "6.68",
-    "a": "/bj/26cc0e70703d3be2x.htm",
-    "brandId": "2000421",
-    "originPriceMiss": true,
-    "year": "2011",
-    "month": "08",
-    "location": "北京",
-    "guaziOriginPrice": "17.94"
-  },
-  {
-    "title": "北京汽车E系列 2012款 两厢 1.5L 自动乐尚版",
-    "ageInfo": "2014年|2.9万公里",
-    "mileage": "2.9",
-    "price": "3.79",
-    "a": "/bj/b724df7f3019e14cx.htm",
-    "brandId": "2000413",
-    "originPriceMiss": true,
-    "year": "2014",
-    "month": "09",
-    "location": "北京",
-    "guaziOriginPrice": "8.15"
+    "guaziOriginPrice": "15.62",
+    "focusNum": ""
   },
   {
     "title": "福特福克斯 2012款 两厢 1.6L 自动舒适型",
-    "ageInfo": "2013年|4.8万公里",
-    "mileage": "4.8",
-    "price": "6.93",
-    "a": "/bj/5a1d41c12a8aec00x.htm",
-    "brandId": "2000446",
-    "originPriceMiss": true,
-    "year": "2013",
-    "month": "04",
-    "location": "北京",
-    "guaziOriginPrice": "14.21"
-  },
-  {
-    "title": "哈弗H2 2015款 1.5T 自动两驱精英版",
-    "ageInfo": "2015年|3.1万公里",
-    "mileage": "3.1",
-    "price": "7.80",
-    "a": "/bj/6b001a37a4fc28a2x.htm",
-    "brandId": "2000452",
-    "originPriceMiss": true,
-    "year": "2015",
-    "month": "12",
-    "location": "北京",
-    "guaziOriginPrice": "12.68"
-  },
-  {
-    "title": "北汽绅宝绅宝D50 2014款 1.5L CVT标准版",
-    "ageInfo": "2015年|2.7万公里",
-    "mileage": "2.7",
-    "price": "5.50",
-    "a": "/bj/425ee113c869e6a8x.htm",
-    "brandId": "2000414",
-    "originPriceMiss": true,
-    "year": "2015",
-    "month": "06",
-    "location": "北京",
-    "guaziOriginPrice": "9.75"
-  },
-  {
-    "title": "马自达6 2011款 2.0L 自动豪华型",
-    "ageInfo": "2010年|4.0万公里",
-    "mileage": "4.0",
-    "price": "7.30",
-    "a": "/bj/8abd85858421878cx.htm",
-    "brandId": "2000507",
-    "originPriceMiss": true,
-    "year": "2010",
-    "month": "12",
-    "location": "北京",
-    "guaziOriginPrice": "20.60"
-  },
-  {
-    "title": "大众高尔夫 2011款 1.6 自动舒适型",
-    "ageInfo": "2012年|4.2万公里",
-    "mileage": "4.2",
-    "price": "7.30",
-    "a": "/bj/35e412f3a6d99b6cx.htm",
-    "brandId": "2000433",
-    "originPriceMiss": true,
-    "year": "2012",
-    "month": "01",
-    "location": "北京",
-    "guaziOriginPrice": "15.17"
-  },
-  {
-    "title": "福特福克斯 2011款 两厢 1.8L 自动时尚型",
-    "ageInfo": "2012年|2.3万公里",
-    "mileage": "2.3",
-    "price": "6.10",
-    "a": "/bj/ed3a1d0887f6725fx.htm",
-    "brandId": "2000446",
-    "originPriceMiss": true,
-    "year": "2012",
-    "month": "03",
-    "location": "北京",
-    "guaziOriginPrice": "13.87"
-  },
-  {
-    "title": "荣威350 2013款 350C 1.5L 自动迅悦版",
-    "ageInfo": "2012年|4.7万公里",
-    "mileage": "4.7",
-    "price": "5.30",
-    "a": "/bj/af0bade82ffad996x.htm",
-    "brandId": "2000526",
-    "originPriceMiss": true,
-    "year": "2012",
-    "month": "12",
-    "location": "北京",
-    "guaziOriginPrice": "11.91"
-  },
-  {
-    "title": "本田锋范经典 2008款 1.5L 自动精英版",
-    "ageInfo": "2010年|3.7万公里",
+    "ageInfo": "2012年|3.7万公里",
     "mileage": "3.7",
-    "price": "5.00",
-    "a": "/bj/2426f1a7adcf247ex.htm",
-    "brandId": "2000417",
+    "price": "6.80",
+    "a": "/bj/10af57682cb6b227x.htm",
+    "brandId": "2000446",
     "originPriceMiss": true,
-    "year": "2010",
+    "year": "2012",
     "month": "10",
     "location": "北京",
-    "guaziOriginPrice": "12.68"
+    "guaziOriginPrice": "14.21",
+    "focusNum": "21"
   },
   {
-    "title": "丰田卡罗拉 2011款 1.6L 自动GL",
-    "ageInfo": "2011年|4.0万公里",
-    "mileage": "4.0",
-    "price": "6.44",
-    "a": "/bj/b05d6296c8e56323x.htm",
-    "brandId": "2000442",
-    "originPriceMiss": true,
-    "year": "2011",
-    "month": "07",
-    "location": "北京",
-    "guaziOriginPrice": "14.31"
-  },
-  {
-    "title": "福特福克斯 2012款 三厢 1.6L 自动风尚型",
-    "ageInfo": "2012年|4.1万公里",
-    "mileage": "4.1",
-    "price": "7.20",
-    "a": "/bj/8840caf9872e3ea8x.htm",
-    "brandId": "2000446",
-    "originPriceMiss": true,
-    "year": "2012",
-    "month": "12",
-    "location": "北京",
-    "guaziOriginPrice": "15.62"
-  },
-  {
-    "title": "雪佛兰科鲁兹 2013款 1.8L SE AT",
-    "ageInfo": "2013年|4.5万公里",
-    "mileage": "4.5",
-    "price": "7.80",
-    "a": "/bj/91fdda12a2acdb40x.htm",
-    "brandId": "2000563",
-    "originPriceMiss": true,
-    "year": "2013",
-    "month": "07",
-    "location": "北京",
-    "guaziOriginPrice": "14.86"
-  },
-  {
-    "title": "现代朗动 2012款 1.6L 自动尊贵型",
-    "ageInfo": "2013年|4.1万公里",
-    "mileage": "4.1",
-    "price": "7.55",
-    "a": "/bj/f4ada8b99d122427x.htm",
-    "brandId": "2000560",
-    "originPriceMiss": true,
-    "year": "2013",
-    "month": "07",
-    "location": "北京",
-    "guaziOriginPrice": "14.42"
-  },
-  {
-    "title": "斯柯达晶锐 2014款 1.4L 自动晶致版",
-    "ageInfo": "2013年|2.7万公里",
-    "mileage": "2.7",
-    "price": "5.40",
-    "a": "/bj/9a75d1b6c4004ae8x.htm",
-    "brandId": "2000540",
-    "originPriceMiss": true,
-    "year": "2013",
-    "month": "11",
-    "location": "北京",
-    "guaziOriginPrice": "9.87"
-  },
-  {
-    "title": "大众POLO 2013款 1.4L 自动舒适版",
-    "ageInfo": "2013年|2.4万公里",
-    "mileage": "2.4",
-    "price": "6.80",
-    "a": "/bj/9054d92de56e3da3x.htm",
-    "brandId": "2000433",
-    "originPriceMiss": true,
-    "year": "2013",
-    "month": "09",
-    "location": "北京",
-    "guaziOriginPrice": "11.60"
-  },
-  {
-    "title": "丰田威驰 2008款 1.6L GL-i 特别纪念版 AT",
-    "ageInfo": "2010年|4.0万公里",
-    "mileage": "4.0",
-    "price": "4.50",
-    "a": "/bj/75c317b34a4f2b97x.htm",
-    "brandId": "2000442",
-    "originPriceMiss": true,
-    "year": "2010",
-    "month": "07",
-    "location": "北京",
-    "guaziOriginPrice": "11.71"
-  },
-  {
-    "title": "江淮iEV 2015款 iEV5",
-    "ageInfo": "2015年|1.7万公里",
-    "mileage": "1.7",
-    "price": "5.50",
-    "a": "/bj/93ed32733410e9a6x.htm",
-    "brandId": "2000473",
-    "originPriceMiss": true,
-    "year": "2015",
-    "month": "12",
-    "location": "北京",
-    "guaziOriginPrice": "19.52"
-  },
-  {
-    "title": "丰田雅力士 2009款 1.6E 自动舒适版",
-    "ageInfo": "2010年|3.8万公里",
+    "title": "Smartsmart fortwo 2012款 1.0 MHD 硬顶舒适版",
+    "ageInfo": "2014年|3.8万公里",
     "mileage": "3.8",
-    "price": "5.60",
-    "a": "/bj/4a1db8305e49911fx.htm",
-    "brandId": "2000442",
+    "price": "6.88",
+    "a": "/bj/e51dfc106304486fx.htm",
+    "brandId": "2000400",
     "originPriceMiss": true,
-    "year": "2010",
-    "month": "08",
+    "year": "2014",
+    "month": "02",
     "location": "北京",
-    "guaziOriginPrice": "10.83"
-  },
-  {
-    "title": "江淮iEV 2015款 iEV5",
-    "ageInfo": "2015年|2.5万公里",
-    "mileage": "2.5",
-    "price": "6.30",
-    "a": "/bj/37183bcee461d12ax.htm",
-    "brandId": "2000473",
-    "originPriceMiss": true,
-    "year": "2015",
-    "month": "06",
-    "location": "北京",
-    "guaziOriginPrice": "19.52"
-  },
-  {
-    "title": "荣威E50 2015款 标准型",
-    "ageInfo": "2016年|0.3万公里",
-    "mileage": "0.3",
-    "price": "7.00",
-    "a": "/bj/b7e1dc74f7276586x.htm",
-    "brandId": "2000526",
-    "originPriceMiss": true,
-    "year": "2016",
-    "month": "04",
-    "location": "北京",
-    "guaziOriginPrice": "25.50"
+    "guaziOriginPrice": "13.89",
+    "focusNum": "13"
   },
   {
     "title": "日产玛驰 2015款 1.5L 自动易智版",
     "ageInfo": "2015年|1.7万公里",
     "mileage": "1.7",
-    "price": "5.90",
+    "price": "5.70",
     "a": "/bj/7bbe999cae98d0a3x.htm",
     "brandId": "2000525",
     "originPriceMiss": true,
     "year": "2015",
     "month": "08",
     "location": "北京",
-    "guaziOriginPrice": "9.50"
-  },
-  {
-    "title": "江淮iEV 2015款 iEV4 豪华智能型",
-    "ageInfo": "2016年|0.2万公里",
-    "mileage": "0.2",
-    "price": "5.20",
-    "a": "/bj/e8f50dde8aacf602x.htm",
-    "brandId": "2000473",
-    "originPriceMiss": true,
-    "year": "2016",
-    "month": "05",
-    "location": "北京",
-    "guaziOriginPrice": "16.80"
-  },
-  {
-    "title": "大众POLO 2014款 1.6L 自动舒适版",
-    "ageInfo": "2014年|1.8万公里",
-    "mileage": "1.8",
-    "price": "7.60",
-    "a": "/bj/06f0570777b78af4x.htm",
-    "brandId": "2000433",
-    "originPriceMiss": true,
-    "year": "2014",
-    "month": "08",
-    "location": "北京",
-    "guaziOriginPrice": "11.28"
-  },
-  {
-    "title": "本田飞度 2014款 1.5L SE CVT时尚型",
-    "ageInfo": "2016年|2.0万公里",
-    "mileage": "2.0",
-    "price": "8.00",
-    "a": "/bj/7fa8cb129028098ax.htm",
-    "brandId": "2000417",
-    "originPriceMiss": true,
-    "year": "2016",
-    "month": "01",
-    "location": "北京",
-    "guaziOriginPrice": "9.64"
+    "guaziOriginPrice": "9.50",
+    "focusNum": "15"
   },
   {
     "title": "标致308 2012款 2.0L 自动尊尚型",
@@ -491,7 +108,148 @@
     "year": "2012",
     "month": "02",
     "location": "北京",
-    "guaziOriginPrice": "15.40"
+    "guaziOriginPrice": "15.40",
+    "focusNum": "71"
+  },
+  {
+    "title": "福特福克斯 2012款 三厢 1.6L 自动风尚型",
+    "ageInfo": "2013年|2.9万公里",
+    "mileage": "2.9",
+    "price": "7.70",
+    "a": "/bj/3c6af93077f83dcbx.htm",
+    "brandId": "2000446",
+    "originPriceMiss": true,
+    "year": "2013",
+    "month": "04",
+    "location": "北京",
+    "guaziOriginPrice": "15.62",
+    "focusNum": "55"
+  },
+  {
+    "title": "奔腾X80 2013款 2.0L 自动舒适型",
+    "ageInfo": "2014年|3.7万公里",
+    "mileage": "3.7",
+    "price": "8.10",
+    "a": "/bj/fcdf07f69d1940a2x.htm",
+    "brandId": "2000416",
+    "originPriceMiss": true,
+    "year": "2014",
+    "month": "01",
+    "location": "北京",
+    "guaziOriginPrice": "14.52",
+    "focusNum": "23"
+  },
+  {
+    "title": "Smartsmart fortwo 2011款 1.0T 敞篷激情版",
+    "ageInfo": "2011年|4.7万公里",
+    "mileage": "4.7",
+    "price": "7.50",
+    "a": "/bj/9dfdeca676c963b8x.htm",
+    "brandId": "2000400",
+    "originPriceMiss": true,
+    "year": "2011",
+    "month": "04",
+    "location": "北京",
+    "guaziOriginPrice": "20.41",
+    "focusNum": "15"
+  },
+  {
+    "title": "日产阳光 2011款 1.5XE CVT舒适版",
+    "ageInfo": "2013年|1.9万公里",
+    "mileage": "1.9",
+    "price": "5.90",
+    "a": "/bj/dd2cbd634f88983cx.htm",
+    "brandId": "2000525",
+    "originPriceMiss": true,
+    "year": "2013",
+    "month": "06",
+    "location": "北京",
+    "guaziOriginPrice": "10.07",
+    "focusNum": "41"
+  },
+  {
+    "title": "福特福克斯 2012款 两厢 1.6L 自动风尚型",
+    "ageInfo": "2012年|2.4万公里",
+    "mileage": "2.4",
+    "price": "7.60",
+    "a": "/bj/3fcae1411433b5e4x.htm",
+    "brandId": "2000446",
+    "originPriceMiss": true,
+    "year": "2012",
+    "month": "09",
+    "location": "北京",
+    "guaziOriginPrice": "15.62",
+    "focusNum": "33"
+  },
+  {
+    "title": "奔腾B50 2009款 1.6 自动豪华型",
+    "ageInfo": "2010年|4.0万公里",
+    "mileage": "4.0",
+    "price": "4.50",
+    "a": "/bj/0fd44944a8478b64x.htm",
+    "brandId": "2000416",
+    "originPriceMiss": true,
+    "year": "2010",
+    "month": "12",
+    "location": "北京",
+    "guaziOriginPrice": "11.92",
+    "focusNum": "103"
+  },
+  {
+    "title": "雪佛兰乐风 2009款 1.4 SE AT",
+    "ageInfo": "2009年|4.2万公里",
+    "mileage": "4.2",
+    "price": "3.20",
+    "a": "/bj/9c3aa7db5f5ac797x.htm",
+    "brandId": "2000563",
+    "originPriceMiss": true,
+    "year": "2009",
+    "month": "12",
+    "location": "北京",
+    "guaziOriginPrice": "9.76",
+    "focusNum": "25"
+  },
+  {
+    "title": "铃木雨燕 2014款 1.5L 自动时尚型",
+    "ageInfo": "2016年|1.6万公里",
+    "mileage": "1.6",
+    "price": "6.20",
+    "a": "/bj/13822ddf37b30a0cx.htm",
+    "brandId": "2000502",
+    "originPriceMiss": true,
+    "year": "2016",
+    "month": "11",
+    "location": "北京",
+    "guaziOriginPrice": "8.12",
+    "focusNum": "69"
+  },
+  {
+    "title": "福特福克斯 2012款 两厢 1.6L 自动风尚型",
+    "ageInfo": "2012年|4.8万公里",
+    "mileage": "4.8",
+    "price": "6.90",
+    "a": "/bj/eb83f784739060e1x.htm",
+    "brandId": "2000446",
+    "originPriceMiss": true,
+    "year": "2012",
+    "month": "08",
+    "location": "北京",
+    "guaziOriginPrice": "15.62",
+    "focusNum": "97"
+  },
+  {
+    "title": "别克英朗 2011款 GT 1.8L 自动时尚版真皮款",
+    "ageInfo": "2011年|4.7万公里",
+    "mileage": "4.7",
+    "price": "6.68",
+    "a": "/bj/26cc0e70703d3be2x.htm",
+    "brandId": "2000421",
+    "originPriceMiss": true,
+    "year": "2011",
+    "month": "08",
+    "location": "北京",
+    "guaziOriginPrice": "17.94",
+    "focusNum": "133"
   },
   {
     "title": "现代瑞纳 2010款 三厢 1.4L 自动舒适型GS",
@@ -504,20 +262,120 @@
     "year": "2013",
     "month": "11",
     "location": "北京",
-    "guaziOriginPrice": "9.43"
+    "guaziOriginPrice": "9.43",
+    "focusNum": "35"
   },
   {
-    "title": "大众宝来 2013款 1.4T 自动豪华型",
-    "ageInfo": "2013年|4.1万公里",
-    "mileage": "4.1",
-    "price": "7.99",
-    "a": "/bj/c2b175fd22ffd457x.htm",
-    "brandId": "2000433",
+    "title": "北京汽车E系列 2012款 两厢 1.5L 自动乐尚版",
+    "ageInfo": "2014年|2.9万公里",
+    "mileage": "2.9",
+    "price": "3.79",
+    "a": "/bj/b724df7f3019e14cx.htm",
+    "brandId": "2000413",
+    "originPriceMiss": true,
+    "year": "2014",
+    "month": "09",
+    "location": "北京",
+    "guaziOriginPrice": "8.15",
+    "focusNum": "217"
+  },
+  {
+    "title": "福特福克斯 2012款 两厢 1.6L 自动舒适型",
+    "ageInfo": "2013年|4.8万公里",
+    "mileage": "4.8",
+    "price": "6.93",
+    "a": "/bj/5a1d41c12a8aec00x.htm",
+    "brandId": "2000446",
     "originPriceMiss": true,
     "year": "2013",
-    "month": "07",
+    "month": "04",
     "location": "北京",
-    "guaziOriginPrice": "16.10"
+    "guaziOriginPrice": "14.21",
+    "focusNum": "83"
+  },
+  {
+    "title": "哈弗H2 2015款 1.5T 自动两驱精英版",
+    "ageInfo": "2015年|3.1万公里",
+    "mileage": "3.1",
+    "price": "7.80",
+    "a": "/bj/6b001a37a4fc28a2x.htm",
+    "brandId": "2000452",
+    "originPriceMiss": true,
+    "year": "2015",
+    "month": "12",
+    "location": "北京",
+    "guaziOriginPrice": "12.68",
+    "focusNum": "151"
+  },
+  {
+    "title": "北汽绅宝绅宝D50 2014款 1.5L CVT标准版",
+    "ageInfo": "2015年|2.7万公里",
+    "mileage": "2.7",
+    "price": "5.50",
+    "a": "/bj/425ee113c869e6a8x.htm",
+    "brandId": "2000414",
+    "originPriceMiss": true,
+    "year": "2015",
+    "month": "06",
+    "location": "北京",
+    "guaziOriginPrice": "9.75",
+    "focusNum": "21"
+  },
+  {
+    "title": "马自达6 2011款 2.0L 自动豪华型",
+    "ageInfo": "2010年|4.0万公里",
+    "mileage": "4.0",
+    "price": "7.30",
+    "a": "/bj/8abd85858421878cx.htm",
+    "brandId": "2000507",
+    "originPriceMiss": true,
+    "year": "2010",
+    "month": "12",
+    "location": "北京",
+    "guaziOriginPrice": "20.60",
+    "focusNum": "19"
+  },
+  {
+    "title": "荣威350 2013款 350C 1.5L 自动迅悦版",
+    "ageInfo": "2012年|4.7万公里",
+    "mileage": "4.7",
+    "price": "5.30",
+    "a": "/bj/af0bade82ffad996x.htm",
+    "brandId": "2000526",
+    "originPriceMiss": true,
+    "year": "2012",
+    "month": "12",
+    "location": "北京",
+    "guaziOriginPrice": "11.91",
+    "focusNum": "21"
+  },
+  {
+    "title": "大众高尔夫 2011款 1.6 自动舒适型",
+    "ageInfo": "2012年|4.2万公里",
+    "mileage": "4.2",
+    "price": "7.30",
+    "a": "/bj/35e412f3a6d99b6cx.htm",
+    "brandId": "2000433",
+    "originPriceMiss": true,
+    "year": "2012",
+    "month": "01",
+    "location": "北京",
+    "guaziOriginPrice": "15.17",
+    "focusNum": "39"
+  },
+  {
+    "title": "福特福克斯 2011款 两厢 1.8L 自动时尚型",
+    "ageInfo": "2012年|2.3万公里",
+    "mileage": "2.3",
+    "price": "6.10",
+    "a": "/bj/ed3a1d0887f6725fx.htm",
+    "brandId": "2000446",
+    "originPriceMiss": true,
+    "year": "2012",
+    "month": "03",
+    "location": "北京",
+    "guaziOriginPrice": "13.87",
+    "focusNum": "45"
   },
   {
     "title": "北汽绅宝绅宝D50 2014款 1.5L CVT标准版",
@@ -530,7 +388,176 @@
     "year": "2015",
     "month": "01",
     "location": "北京",
-    "guaziOriginPrice": "9.75"
+    "guaziOriginPrice": "9.75",
+    "focusNum": "17"
+  },
+  {
+    "title": "福特福克斯 2012款 三厢 1.6L 自动风尚型",
+    "ageInfo": "2012年|4.1万公里",
+    "mileage": "4.1",
+    "price": "7.20",
+    "a": "/bj/8840caf9872e3ea8x.htm",
+    "brandId": "2000446",
+    "originPriceMiss": true,
+    "year": "2012",
+    "month": "12",
+    "location": "北京",
+    "guaziOriginPrice": "15.62",
+    "focusNum": "59"
+  },
+  {
+    "title": "现代朗动 2012款 1.6L 自动尊贵型",
+    "ageInfo": "2013年|4.1万公里",
+    "mileage": "4.1",
+    "price": "7.55",
+    "a": "/bj/f4ada8b99d122427x.htm",
+    "brandId": "2000560",
+    "originPriceMiss": true,
+    "year": "2013",
+    "month": "07",
+    "location": "北京",
+    "guaziOriginPrice": "14.42",
+    "focusNum": "77"
+  },
+  {
+    "title": "雪佛兰科鲁兹 2013款 1.8L SE AT",
+    "ageInfo": "2013年|4.5万公里",
+    "mileage": "4.5",
+    "price": "7.80",
+    "a": "/bj/91fdda12a2acdb40x.htm",
+    "brandId": "2000563",
+    "originPriceMiss": true,
+    "year": "2013",
+    "month": "07",
+    "location": "北京",
+    "guaziOriginPrice": "14.86",
+    "focusNum": "11"
+  },
+  {
+    "title": "斯柯达晶锐 2014款 1.4L 自动晶致版",
+    "ageInfo": "2013年|2.7万公里",
+    "mileage": "2.7",
+    "price": "5.40",
+    "a": "/bj/9a75d1b6c4004ae8x.htm",
+    "brandId": "2000540",
+    "originPriceMiss": true,
+    "year": "2013",
+    "month": "11",
+    "location": "北京",
+    "guaziOriginPrice": "9.87",
+    "focusNum": "31"
+  },
+  {
+    "title": "大众POLO 2013款 1.4L 自动舒适版",
+    "ageInfo": "2013年|2.4万公里",
+    "mileage": "2.4",
+    "price": "6.80",
+    "a": "/bj/9054d92de56e3da3x.htm",
+    "brandId": "2000433",
+    "originPriceMiss": true,
+    "year": "2013",
+    "month": "09",
+    "location": "北京",
+    "guaziOriginPrice": "11.60",
+    "focusNum": "17"
+  },
+  {
+    "title": "丰田威驰 2008款 1.6L GL-i 特别纪念版 AT",
+    "ageInfo": "2010年|4.0万公里",
+    "mileage": "4.0",
+    "price": "4.50",
+    "a": "/bj/75c317b34a4f2b97x.htm",
+    "brandId": "2000442",
+    "originPriceMiss": true,
+    "year": "2010",
+    "month": "07",
+    "location": "北京",
+    "guaziOriginPrice": "11.71",
+    "focusNum": "21"
+  },
+  {
+    "title": "丰田雅力士 2009款 1.6E 自动舒适版",
+    "ageInfo": "2010年|3.8万公里",
+    "mileage": "3.8",
+    "price": "5.60",
+    "a": "/bj/4a1db8305e49911fx.htm",
+    "brandId": "2000442",
+    "originPriceMiss": true,
+    "year": "2010",
+    "month": "08",
+    "location": "北京",
+    "guaziOriginPrice": "10.83",
+    "focusNum": "63"
+  },
+  {
+    "title": "江淮iEV 2015款 iEV5",
+    "ageInfo": "2015年|2.5万公里",
+    "mileage": "2.5",
+    "price": "6.30",
+    "a": "/bj/37183bcee461d12ax.htm",
+    "brandId": "2000473",
+    "originPriceMiss": true,
+    "year": "2015",
+    "month": "06",
+    "location": "北京",
+    "guaziOriginPrice": "19.52",
+    "focusNum": ""
+  },
+  {
+    "title": "荣威E50 2015款 标准型",
+    "ageInfo": "2016年|0.3万公里",
+    "mileage": "0.3",
+    "price": "7.00",
+    "a": "/bj/b7e1dc74f7276586x.htm",
+    "brandId": "2000526",
+    "originPriceMiss": true,
+    "year": "2016",
+    "month": "04",
+    "location": "北京",
+    "guaziOriginPrice": "25.50",
+    "focusNum": "9"
+  },
+  {
+    "title": "大众POLO 2014款 1.6L 自动舒适版",
+    "ageInfo": "2014年|1.8万公里",
+    "mileage": "1.8",
+    "price": "7.60",
+    "a": "/bj/06f0570777b78af4x.htm",
+    "brandId": "2000433",
+    "originPriceMiss": true,
+    "year": "2014",
+    "month": "08",
+    "location": "北京",
+    "guaziOriginPrice": "11.28",
+    "focusNum": "27"
+  },
+  {
+    "title": "江淮iEV 2015款 iEV4 豪华智能型",
+    "ageInfo": "2016年|0.2万公里",
+    "mileage": "0.2",
+    "price": "5.20",
+    "a": "/bj/e8f50dde8aacf602x.htm",
+    "brandId": "2000473",
+    "originPriceMiss": true,
+    "year": "2016",
+    "month": "05",
+    "location": "北京",
+    "guaziOriginPrice": "16.80",
+    "focusNum": ""
+  },
+  {
+    "title": "大众宝来 2013款 1.4T 自动豪华型",
+    "ageInfo": "2013年|4.1万公里",
+    "mileage": "4.1",
+    "price": "7.99",
+    "a": "/bj/c2b175fd22ffd457x.htm",
+    "brandId": "2000433",
+    "originPriceMiss": true,
+    "year": "2013",
+    "month": "07",
+    "location": "北京",
+    "guaziOriginPrice": "16.10",
+    "focusNum": "193"
   },
   {
     "title": "北京EV系列 2015款 EV160 轻秀版",
@@ -543,7 +570,22 @@
     "year": "2015",
     "month": "07",
     "location": "北京",
-    "guaziOriginPrice": "20.50"
+    "guaziOriginPrice": "20.50",
+    "focusNum": "35"
+  },
+  {
+    "title": "丰田卡罗拉 2011款 1.6L 自动GL",
+    "ageInfo": "2011年|4.0万公里",
+    "mileage": "4.0",
+    "price": "6.44",
+    "a": "/bj/b05d6296c8e56323x.htm",
+    "brandId": "2000442",
+    "originPriceMiss": true,
+    "year": "2011",
+    "month": "07",
+    "location": "北京",
+    "guaziOriginPrice": "14.31",
+    "focusNum": "47"
   },
   {
     "title": "荣威350 2014款 1.5L 自动迅豪版",
@@ -556,7 +598,8 @@
     "year": "2014",
     "month": "07",
     "location": "北京",
-    "guaziOriginPrice": "13.97"
+    "guaziOriginPrice": "13.97",
+    "focusNum": "95"
   },
   {
     "title": "福特嘉年华 2013款 三厢 1.5L 自动时尚型",
@@ -569,20 +612,8 @@
     "year": "2013",
     "month": "12",
     "location": "北京",
-    "guaziOriginPrice": "10.74"
-  },
-  {
-    "title": "标致408 2013款 2.0L 自动舒适版",
-    "ageInfo": "2013年|4.2万公里",
-    "mileage": "4.2",
-    "price": "6.50",
-    "a": "/bj/dd85c6c399c70b64x.htm",
-    "brandId": "2000420",
-    "originPriceMiss": true,
-    "year": "2013",
-    "month": "11",
-    "location": "北京",
-    "guaziOriginPrice": "15.62"
+    "guaziOriginPrice": "10.74",
+    "focusNum": "113"
   },
   {
     "title": "铃木天语 SX4 2009款 两厢 1.6L 自动运动型",
@@ -595,7 +626,8 @@
     "year": "2010",
     "month": "05",
     "location": "北京",
-    "guaziOriginPrice": "12.90"
+    "guaziOriginPrice": "12.90",
+    "focusNum": "43"
   },
   {
     "title": "标致308 2013款 1.6L 自动风尚型",
@@ -608,20 +640,8 @@
     "year": "2014",
     "month": "11",
     "location": "北京",
-    "guaziOriginPrice": "13.45"
-  },
-  {
-    "title": "福特福克斯 2012款 三厢 1.6L 自动风尚型",
-    "ageInfo": "2012年|4.8万公里",
-    "mileage": "4.8",
-    "price": "7.20",
-    "a": "/bj/aae98f2c05aa32d3x.htm",
-    "brandId": "2000446",
-    "originPriceMiss": true,
-    "year": "2012",
-    "month": "11",
-    "location": "北京",
-    "guaziOriginPrice": "15.62"
+    "guaziOriginPrice": "13.45",
+    "focusNum": "37"
   },
   {
     "title": "雪佛兰科鲁兹 2015款 1.5L 经典 SE AT",
@@ -634,20 +654,8 @@
     "year": "2015",
     "month": "06",
     "location": "北京",
-    "guaziOriginPrice": "11.93"
-  },
-  {
-    "title": "雪佛兰科鲁兹 2015款 1.5L 经典 SE AT",
-    "ageInfo": "2015年|2.5万公里",
-    "mileage": "2.5",
-    "price": "7.60",
-    "a": "/bj/08e20484272430f3x.htm",
-    "brandId": "2000563",
-    "originPriceMiss": true,
-    "year": "2015",
-    "month": "06",
-    "location": "北京",
-    "guaziOriginPrice": "11.93"
+    "guaziOriginPrice": "11.93",
+    "focusNum": "37"
   },
   {
     "title": "雪佛兰科鲁兹 2011款 1.6L SL天地版 AT",
@@ -660,7 +668,8 @@
     "year": "2010",
     "month": "11",
     "location": "北京",
-    "guaziOriginPrice": "13.88"
+    "guaziOriginPrice": "13.88",
+    "focusNum": "139"
   },
   {
     "title": "日产骐达 2011款 1.6L CVT舒适型",
@@ -673,7 +682,8 @@
     "year": "2013",
     "month": "02",
     "location": "北京",
-    "guaziOriginPrice": "12.52"
+    "guaziOriginPrice": "12.52",
+    "focusNum": "63"
   },
   {
     "title": "哈弗H6 2013款 升级版 2.4L 自动两驱精英型",
@@ -686,7 +696,8 @@
     "year": "2014",
     "month": "01",
     "location": "北京",
-    "guaziOriginPrice": "13.87"
+    "guaziOriginPrice": "13.87",
+    "focusNum": "31"
   },
   {
     "title": "Smartsmart fortwo 2012款 1.0 MHD 硬顶标准版",
@@ -699,7 +710,8 @@
     "year": "2013",
     "month": "10",
     "location": "北京",
-    "guaziOriginPrice": "12.48"
+    "guaziOriginPrice": "12.48",
+    "focusNum": "25"
   },
   {
     "title": "福特福克斯 2012款 两厢 1.6L 自动舒适型",
@@ -712,7 +724,8 @@
     "year": "2013",
     "month": "01",
     "location": "北京",
-    "guaziOriginPrice": "14.21"
+    "guaziOriginPrice": "14.21",
+    "focusNum": "39"
   },
   {
     "title": "大众POLO 2014款 1.4L 自动舒适版",
@@ -725,7 +738,8 @@
     "year": "2014",
     "month": "12",
     "location": "北京",
-    "guaziOriginPrice": "10.74"
+    "guaziOriginPrice": "10.74",
+    "focusNum": "45"
   },
   {
     "title": "大众朗逸 2011款 1.6L 自动品雅版",
@@ -738,33 +752,8 @@
     "year": "2011",
     "month": "11",
     "location": "北京",
-    "guaziOriginPrice": "14.63"
-  },
-  {
-    "title": "丰田威驰 2011款 1.6L GL-i 天窗版 AT",
-    "ageInfo": "2012年|3.3万公里",
-    "mileage": "3.3",
-    "price": "5.30",
-    "a": "/bj/53ff9d78f3e66a48x.htm",
-    "brandId": "2000442",
-    "originPriceMiss": true,
-    "year": "2012",
-    "month": "11",
-    "location": "北京",
-    "guaziOriginPrice": "11.71"
-  },
-  {
-    "title": "丰田卡罗拉 2007款 1.6L 自动GL",
-    "ageInfo": "2009年|3.2万公里",
-    "mileage": "3.2",
-    "price": "5.50",
-    "a": "/bj/e0a297ab604b5b00x.htm",
-    "brandId": "2000442",
-    "originPriceMiss": true,
-    "year": "2009",
-    "month": "09",
-    "location": "北京",
-    "guaziOriginPrice": "15.17"
+    "guaziOriginPrice": "14.63",
+    "focusNum": "9"
   },
   {
     "title": "比亚迪L3 2015款 节能版 1.5L 自动舒适型",
@@ -777,7 +766,8 @@
     "year": "2015",
     "month": "05",
     "location": "北京",
-    "guaziOriginPrice": "6.72"
+    "guaziOriginPrice": "6.72",
+    "focusNum": "45"
   },
   {
     "title": "铃木奥拓 2009款 1.0L 自动豪华型",
@@ -790,7 +780,8 @@
     "year": "2010",
     "month": "09",
     "location": "北京",
-    "guaziOriginPrice": "6.39"
+    "guaziOriginPrice": "6.39",
+    "focusNum": "31"
   },
   {
     "title": "北京汽车E系列 2013款 三厢 1.5L 自动乐尚版",
@@ -803,7 +794,22 @@
     "year": "2014",
     "month": "09",
     "location": "北京",
-    "guaziOriginPrice": "8.26"
+    "guaziOriginPrice": "8.26",
+    "focusNum": "23"
+  },
+  {
+    "title": "本田飞度 2014款 1.5L SE CVT时尚型",
+    "ageInfo": "2016年|2.0万公里",
+    "mileage": "2.0",
+    "price": "8.00",
+    "a": "/bj/7fa8cb129028098ax.htm",
+    "brandId": "2000417",
+    "originPriceMiss": true,
+    "year": "2016",
+    "month": "01",
+    "location": "北京",
+    "guaziOriginPrice": "9.64",
+    "focusNum": "41"
   },
   {
     "title": "大众捷达 2015款 质惠版 1.6L 自动舒适型",
@@ -816,20 +822,36 @@
     "year": "2016",
     "month": "05",
     "location": "北京",
-    "guaziOriginPrice": "11.46"
+    "guaziOriginPrice": "11.46",
+    "focusNum": "39"
   },
   {
-    "title": "长安逸动 2014款 1.6L 自动豪华型",
-    "ageInfo": "2014年|4.7万公里",
-    "mileage": "4.7",
-    "price": "5.60",
-    "a": "/bj/7582d767d2e29885x.htm",
-    "brandId": "2000425",
+    "title": "现代瑞纳 2010款 三厢 1.4L 自动舒适型GS",
+    "ageInfo": "2013年|2.7万公里",
+    "mileage": "2.7",
+    "price": "5.05",
+    "a": "/bj/f5c7696e986e6046x.htm",
+    "brandId": "2000560",
     "originPriceMiss": true,
-    "year": "2014",
-    "month": "12",
+    "year": "2013",
+    "month": "11",
     "location": "北京",
-    "guaziOriginPrice": "9.65"
+    "guaziOriginPrice": "9.43",
+    "focusNum": "35"
+  },
+  {
+    "title": "本田锋范经典 2008款 1.5L 自动精英版",
+    "ageInfo": "2010年|3.7万公里",
+    "mileage": "3.7",
+    "price": "5.00",
+    "a": "/bj/2426f1a7adcf247ex.htm",
+    "brandId": "2000417",
+    "originPriceMiss": true,
+    "year": "2010",
+    "month": "10",
+    "location": "北京",
+    "guaziOriginPrice": "12.68",
+    "focusNum": "145"
   },
   {
     "title": "思铭 2012款 1.8L 自动",
@@ -842,7 +864,8 @@
     "year": "2013",
     "month": "08",
     "location": "北京",
-    "guaziOriginPrice": "13.00"
+    "guaziOriginPrice": "13.00",
+    "focusNum": "49"
   },
   {
     "title": "起亚K3 2013款 1.6L 自动GLS",
@@ -855,7 +878,8 @@
     "year": "2013",
     "month": "01",
     "location": "北京",
-    "guaziOriginPrice": "13.55"
+    "guaziOriginPrice": "13.55",
+    "focusNum": "121"
   },
   {
     "title": "Smartsmart fortwo 2012款 1.0 MHD 硬顶烈焰特别版",
@@ -868,7 +892,8 @@
     "year": "2013",
     "month": "07",
     "location": "北京",
-    "guaziOriginPrice": "15.88"
+    "guaziOriginPrice": "15.88",
+    "focusNum": "37"
   },
   {
     "title": "斯柯达明锐 2013款 1.6L 自动逸俊版",
@@ -881,7 +906,8 @@
     "year": "2013",
     "month": "03",
     "location": "北京",
-    "guaziOriginPrice": "16.24"
+    "guaziOriginPrice": "16.24",
+    "focusNum": "163"
   },
   {
     "title": "福特嘉年华 2013款 两厢 1.5L 自动时尚型",
@@ -894,20 +920,8 @@
     "year": "2014",
     "month": "01",
     "location": "北京",
-    "guaziOriginPrice": "10.74"
-  },
-  {
-    "title": "福特福克斯 2012款 两厢 1.6L 自动舒适型",
-    "ageInfo": "2012年|3.7万公里",
-    "mileage": "3.7",
-    "price": "7.10",
-    "a": "/bj/10af57682cb6b227x.htm",
-    "brandId": "2000446",
-    "originPriceMiss": true,
-    "year": "2012",
-    "month": "10",
-    "location": "北京",
-    "guaziOriginPrice": "14.21"
+    "guaziOriginPrice": "10.74",
+    "focusNum": "83"
   },
   {
     "title": "别克英朗 2014款 XT 1.6L 自动时尚版",
@@ -920,7 +934,8 @@
     "year": "2014",
     "month": "05",
     "location": "北京",
-    "guaziOriginPrice": "16.27"
+    "guaziOriginPrice": "16.27",
+    "focusNum": "91"
   },
   {
     "title": "长安CS35 2012款 1.6L 自动豪华型 国IV",
@@ -933,7 +948,36 @@
     "year": "2013",
     "month": "04",
     "location": "北京",
-    "guaziOriginPrice": "10.08"
+    "guaziOriginPrice": "10.08",
+    "focusNum": "49"
+  },
+  {
+    "title": "长安CS35 2012款 1.6L 自动豪华型 国IV",
+    "ageInfo": "2013年|3.2万公里",
+    "mileage": "3.2",
+    "price": "5.80",
+    "a": "/bj/c49b1e41007b5a8fx.htm",
+    "brandId": "2000425",
+    "originPriceMiss": true,
+    "year": "2013",
+    "month": "04",
+    "location": "北京",
+    "guaziOriginPrice": "10.08",
+    "focusNum": "49"
+  },
+  {
+    "title": "丰田威驰 2011款 1.6L GL-i 天窗版 AT",
+    "ageInfo": "2012年|3.3万公里",
+    "mileage": "3.3",
+    "price": "5.30",
+    "a": "/bj/53ff9d78f3e66a48x.htm",
+    "brandId": "2000442",
+    "originPriceMiss": true,
+    "year": "2012",
+    "month": "11",
+    "location": "北京",
+    "guaziOriginPrice": "11.71",
+    "focusNum": "39"
   },
   {
     "title": "别克凯越 2011款 1.6LE-AT",
@@ -946,7 +990,22 @@
     "year": "2010",
     "month": "12",
     "location": "北京",
-    "guaziOriginPrice": "12.80"
+    "guaziOriginPrice": "12.80",
+    "focusNum": "85"
+  },
+  {
+    "title": "丰田卡罗拉 2007款 1.6L 自动GL",
+    "ageInfo": "2009年|3.2万公里",
+    "mileage": "3.2",
+    "price": "5.50",
+    "a": "/bj/e0a297ab604b5b00x.htm",
+    "brandId": "2000442",
+    "originPriceMiss": true,
+    "year": "2009",
+    "month": "09",
+    "location": "北京",
+    "guaziOriginPrice": "15.17",
+    "focusNum": "37"
   },
   {
     "title": "日产骊威 2013款 1.6XL CVT豪华版",
@@ -959,33 +1018,8 @@
     "year": "2013",
     "month": "08",
     "location": "北京",
-    "guaziOriginPrice": "11.48"
-  },
-  {
-    "title": "Smartsmart fortwo 2012款 1.0 MHD 硬顶舒适版",
-    "ageInfo": "2012年|3.2万公里",
-    "mileage": "3.2",
-    "price": "6.50",
-    "a": "/bj/fb5f51c165f54a45x.htm",
-    "brandId": "2000400",
-    "originPriceMiss": true,
-    "year": "2012",
-    "month": "12",
-    "location": "北京",
-    "guaziOriginPrice": "13.89"
-  },
-  {
-    "title": "北汽新能源EV系列 2015款 EV160 轻快版",
-    "ageInfo": "2015年|3.2万公里",
-    "mileage": "3.2",
-    "price": "6.30",
-    "a": "/bj/d50f710cab9ded9ax.htm",
-    "brandId": "2000414",
-    "originPriceMiss": true,
-    "year": "2015",
-    "month": "07",
-    "location": "北京",
-    "guaziOriginPrice": "19.20"
+    "guaziOriginPrice": "11.48",
+    "focusNum": "19"
   },
   {
     "title": "现代悦动 2010款 1.6L AT GLS",
@@ -998,7 +1032,22 @@
     "year": "2009",
     "month": "11",
     "location": "北京",
-    "guaziOriginPrice": "13.00"
+    "guaziOriginPrice": "13.00",
+    "focusNum": "63"
+  },
+  {
+    "title": "北汽新能源EV系列 2015款 EV160 轻快版",
+    "ageInfo": "2015年|3.2万公里",
+    "mileage": "3.2",
+    "price": "6.30",
+    "a": "/bj/d50f710cab9ded9ax.htm",
+    "brandId": "2000414",
+    "originPriceMiss": true,
+    "year": "2015",
+    "month": "07",
+    "location": "北京",
+    "guaziOriginPrice": "19.20",
+    "focusNum": "19"
   },
   {
     "title": "现代朗动 2016款 1.6L 自动智能型",
@@ -1011,7 +1060,8 @@
     "year": "2016",
     "month": "07",
     "location": "北京",
-    "guaziOriginPrice": "12.57"
+    "guaziOriginPrice": "12.57",
+    "focusNum": "103"
   },
   {
     "title": "雪铁龙世嘉 2011款 两厢 1.6L 自动炫雅型",
@@ -1024,7 +1074,8 @@
     "year": "2012",
     "month": "04",
     "location": "北京",
-    "guaziOriginPrice": "12.90"
+    "guaziOriginPrice": "12.90",
+    "focusNum": "103"
   },
   {
     "title": "江淮iEV 2015款 iEV5",
@@ -1037,7 +1088,8 @@
     "year": "2016",
     "month": "06",
     "location": "北京",
-    "guaziOriginPrice": "19.52"
+    "guaziOriginPrice": "19.52",
+    "focusNum": "17"
   },
   {
     "title": "奇瑞瑞虎3 2015款 1.6L CVT智尚纪念版",
@@ -1050,20 +1102,22 @@
     "year": "2016",
     "month": "01",
     "location": "北京",
-    "guaziOriginPrice": "9.76"
+    "guaziOriginPrice": "9.76",
+    "focusNum": "59"
   },
   {
-    "title": "雪铁龙世嘉 2013款 三厢 1.6L 自动品尚型",
-    "ageInfo": "2015年|2.3万公里",
-    "mileage": "2.3",
-    "price": "6.60",
-    "a": "/bj/2b0a05c0380120f9x.htm",
-    "brandId": "2000564",
+    "title": "长安逸动 2014款 1.6L 自动豪华型",
+    "ageInfo": "2014年|4.7万公里",
+    "mileage": "4.7",
+    "price": "5.60",
+    "a": "/bj/7582d767d2e29885x.htm",
+    "brandId": "2000425",
     "originPriceMiss": true,
-    "year": "2015",
-    "month": "10",
+    "year": "2014",
+    "month": "12",
     "location": "北京",
-    "guaziOriginPrice": "12.79"
+    "guaziOriginPrice": "9.65",
+    "focusNum": "125"
   },
   {
     "title": "比亚迪思锐 2013款 1.5TID 自动尊贵型",
@@ -1076,7 +1130,8 @@
     "year": "2013",
     "month": "11",
     "location": "北京",
-    "guaziOriginPrice": "13.12"
+    "guaziOriginPrice": "13.12",
+    "focusNum": "121"
   },
   {
     "title": "起亚K2 2012款 三厢 1.6L AT Premium纪念版",
@@ -1089,7 +1144,8 @@
     "year": "2014",
     "month": "09",
     "location": "北京",
-    "guaziOriginPrice": "10.84"
+    "guaziOriginPrice": "10.84",
+    "focusNum": "57"
   },
   {
     "title": "现代瑞纳 2010款 三厢 1.4L 自动时尚型GT",
@@ -1102,7 +1158,22 @@
     "year": "2014",
     "month": "01",
     "location": "北京",
-    "guaziOriginPrice": "9.87"
+    "guaziOriginPrice": "9.87",
+    "focusNum": "105"
+  },
+  {
+    "title": "大众桑塔纳 2013款 1.6L 自动舒适版",
+    "ageInfo": "2013年|3.7万公里",
+    "mileage": "3.7",
+    "price": "6.80",
+    "a": "/bj/78e04da6e44779fdx.htm",
+    "brandId": "2000433",
+    "originPriceMiss": true,
+    "year": "2013",
+    "month": "03",
+    "location": "北京",
+    "guaziOriginPrice": "12.35",
+    "focusNum": "141"
   },
   {
     "title": "Smartsmart fortwo 2011款 1.0 MHD 硬顶标准版",
@@ -1115,7 +1186,8 @@
     "year": "2012",
     "month": "01",
     "location": "北京",
-    "guaziOriginPrice": "12.48"
+    "guaziOriginPrice": "12.48",
+    "focusNum": "47"
   },
   {
     "title": "福特福克斯 2012款 两厢 2.0L 自动豪华运动型",
@@ -1128,7 +1200,8 @@
     "year": "2013",
     "month": "01",
     "location": "北京",
-    "guaziOriginPrice": "17.68"
+    "guaziOriginPrice": "17.68",
+    "focusNum": "145"
   },
   {
     "title": "福特福克斯 2012款 三厢 1.6L 自动风尚型",
@@ -1141,7 +1214,22 @@
     "year": "2014",
     "month": "05",
     "location": "北京",
-    "guaziOriginPrice": "15.62"
+    "guaziOriginPrice": "15.62",
+    "focusNum": "109"
+  },
+  {
+    "title": "Smartsmart fortwo 2012款 1.0 MHD 硬顶舒适版",
+    "ageInfo": "2012年|3.2万公里",
+    "mileage": "3.2",
+    "price": "6.50",
+    "a": "/bj/fb5f51c165f54a45x.htm",
+    "brandId": "2000400",
+    "originPriceMiss": true,
+    "year": "2012",
+    "month": "12",
+    "location": "北京",
+    "guaziOriginPrice": "13.89",
+    "focusNum": "35"
   },
   {
     "title": "思铭 2012款 1.8L 自动",
@@ -1154,7 +1242,8 @@
     "year": "2014",
     "month": "02",
     "location": "北京",
-    "guaziOriginPrice": "13.00"
+    "guaziOriginPrice": "13.00",
+    "focusNum": "27"
   },
   {
     "title": "斯柯达昕动 2014款 1.6L 自动悦享版",
@@ -1167,7 +1256,8 @@
     "year": "2014",
     "month": "07",
     "location": "北京",
-    "guaziOriginPrice": "11.93"
+    "guaziOriginPrice": "11.93",
+    "focusNum": "31"
   },
   {
     "title": "现代朗动 2012款 1.6L 自动领先型",
@@ -1180,7 +1270,8 @@
     "year": "2013",
     "month": "03",
     "location": "北京",
-    "guaziOriginPrice": "13.66"
+    "guaziOriginPrice": "13.66",
+    "focusNum": "37"
   },
   {
     "title": "Smartsmart fortwo 2012款 1.0 MHD 硬顶标准版",
@@ -1193,7 +1284,8 @@
     "year": "2014",
     "month": "06",
     "location": "北京",
-    "guaziOriginPrice": "12.48"
+    "guaziOriginPrice": "12.48",
+    "focusNum": "17"
   },
   {
     "title": "长安逸动 2015款 1.6L 自动豪华型",
@@ -1206,7 +1298,8 @@
     "year": "2016",
     "month": "06",
     "location": "北京",
-    "guaziOriginPrice": "9.65"
+    "guaziOriginPrice": "9.65",
+    "focusNum": "109"
   },
   {
     "title": "大众宝来 2012款 1.6L 自动舒适型",
@@ -1219,7 +1312,8 @@
     "year": "2012",
     "month": "09",
     "location": "北京",
-    "guaziOriginPrice": "14.20"
+    "guaziOriginPrice": "14.20",
+    "focusNum": "41"
   },
   {
     "title": "日产骐达 2011款 1.6L CVT舒适型",
@@ -1232,20 +1326,8 @@
     "year": "2014",
     "month": "01",
     "location": "北京",
-    "guaziOriginPrice": "12.52"
-  },
-  {
-    "title": "本田飞度 2011款 1.3L 自动舒适版",
-    "ageInfo": "2013年|2.5万公里",
-    "mileage": "2.5",
-    "price": "6.20",
-    "a": "/bj/960e0e1ef287b803x.htm",
-    "brandId": "2000417",
-    "originPriceMiss": true,
-    "year": "2013",
-    "month": "01",
-    "location": "北京",
-    "guaziOriginPrice": "9.75"
+    "guaziOriginPrice": "12.52",
+    "focusNum": "45"
   },
   {
     "title": "北汽新能源EV系列 2014款 E150EV 科技版",
@@ -1258,7 +1340,8 @@
     "year": "2014",
     "month": "12",
     "location": "北京",
-    "guaziOriginPrice": "25.05"
+    "guaziOriginPrice": "25.05",
+    "focusNum": "39"
   },
   {
     "title": "丰田卡罗拉 2008款 1.8L 自动GL-i天窗特别版",
@@ -1271,7 +1354,8 @@
     "year": "2010",
     "month": "09",
     "location": "北京",
-    "guaziOriginPrice": "16.26"
+    "guaziOriginPrice": "16.26",
+    "focusNum": "63"
   },
   {
     "title": "江淮iEV 2015款 iEV4 豪华智能型",
@@ -1284,7 +1368,8 @@
     "year": "2016",
     "month": "10",
     "location": "北京",
-    "guaziOriginPrice": "16.80"
+    "guaziOriginPrice": "16.80",
+    "focusNum": "83"
   },
   {
     "title": "北汽新能源EV系列 2015款 EV160 轻快版",
@@ -1297,7 +1382,8 @@
     "year": "2015",
     "month": "09",
     "location": "北京",
-    "guaziOriginPrice": "19.20"
+    "guaziOriginPrice": "19.20",
+    "focusNum": "37"
   },
   {
     "title": "北汽新能源EV系列 2015款 EV200 轻快版",
@@ -1310,7 +1396,8 @@
     "year": "2016",
     "month": "04",
     "location": "北京",
-    "guaziOriginPrice": "22.68"
+    "guaziOriginPrice": "22.68",
+    "focusNum": "29"
   },
   {
     "title": "铃木奥拓 2009款 1.0L 自动豪华型",
@@ -1323,7 +1410,8 @@
     "year": "2010",
     "month": "09",
     "location": "北京",
-    "guaziOriginPrice": "6.39"
+    "guaziOriginPrice": "6.39",
+    "focusNum": "41"
   },
   {
     "title": "大众宝来 2008款 1.6L 自动舒适型",
@@ -1336,7 +1424,8 @@
     "year": "2010",
     "month": "10",
     "location": "北京",
-    "guaziOriginPrice": "14.20"
+    "guaziOriginPrice": "14.20",
+    "focusNum": "39"
   },
   {
     "title": "奇瑞eQ 2015款 豪华型",
@@ -1349,7 +1438,8 @@
     "year": "2016",
     "month": "06",
     "location": "北京",
-    "guaziOriginPrice": "17.90"
+    "guaziOriginPrice": "17.90",
+    "focusNum": "61"
   },
   {
     "title": "比亚迪F0 2013款 1.0L AMT 悦酷型",
@@ -1362,7 +1452,8 @@
     "year": "2014",
     "month": "08",
     "location": "北京",
-    "guaziOriginPrice": "5.09"
+    "guaziOriginPrice": "5.09",
+    "focusNum": "53"
   },
   {
     "title": "斯柯达晶锐 2012款 1.4L 自动晶灵版",
@@ -1375,7 +1466,8 @@
     "year": "2013",
     "month": "07",
     "location": "北京",
-    "guaziOriginPrice": "10.84"
+    "guaziOriginPrice": "10.84",
+    "focusNum": "177"
   },
   {
     "title": "起亚K3 2013款 1.6L 自动GLS",
@@ -1388,7 +1480,8 @@
     "year": "2013",
     "month": "08",
     "location": "北京",
-    "guaziOriginPrice": "13.55"
+    "guaziOriginPrice": "13.55",
+    "focusNum": "25"
   },
   {
     "title": "雪铁龙世嘉 2013款 三厢 1.6L 自动品尚型",
@@ -1401,7 +1494,8 @@
     "year": "2014",
     "month": "10",
     "location": "北京",
-    "guaziOriginPrice": "12.79"
+    "guaziOriginPrice": "12.79",
+    "focusNum": "307"
   },
   {
     "title": "福特蒙迪欧-致胜 2010款 2.3L 豪华型",
@@ -1414,7 +1508,8 @@
     "year": "2009",
     "month": "09",
     "location": "北京",
-    "guaziOriginPrice": "21.69"
+    "guaziOriginPrice": "21.69",
+    "focusNum": "75"
   },
   {
     "title": "福特福克斯 2012款 两厢 1.6L 自动风尚型",
@@ -1427,7 +1522,8 @@
     "year": "2014",
     "month": "03",
     "location": "北京",
-    "guaziOriginPrice": "15.62"
+    "guaziOriginPrice": "15.62",
+    "focusNum": "63"
   },
   {
     "title": "现代朗动 2012款 1.6L 自动时尚型",
@@ -1440,7 +1536,8 @@
     "year": "2012",
     "month": "09",
     "location": "北京",
-    "guaziOriginPrice": "12.57"
+    "guaziOriginPrice": "12.57",
+    "focusNum": "67"
   },
   {
     "title": "大众POLO 2012款 1.6L Cross POLO AT",
@@ -1453,20 +1550,8 @@
     "year": "2013",
     "month": "08",
     "location": "北京",
-    "guaziOriginPrice": "13.67"
-  },
-  {
-    "title": "雪佛兰爱唯欧 2014款 三厢 1.4SL AT 时尚天窗版",
-    "ageInfo": "2014年|2.4万公里",
-    "mileage": "2.4",
-    "price": "6.00",
-    "a": "/bj/bbe570a13533d61ex.htm",
-    "brandId": "2000563",
-    "originPriceMiss": true,
-    "year": "2014",
-    "month": "07",
-    "location": "北京",
-    "guaziOriginPrice": "9.76"
+    "guaziOriginPrice": "13.67",
+    "focusNum": "227"
   },
   {
     "title": "北汽绅宝绅宝D70 2013款 2.0T 精英版",
@@ -1479,7 +1564,22 @@
     "year": "2014",
     "month": "11",
     "location": "北京",
-    "guaziOriginPrice": "18.00"
+    "guaziOriginPrice": "18.00",
+    "focusNum": "39"
+  },
+  {
+    "title": "雪佛兰爱唯欧 2014款 三厢 1.4SL AT 时尚天窗版",
+    "ageInfo": "2014年|2.4万公里",
+    "mileage": "2.4",
+    "price": "6.00",
+    "a": "/bj/bbe570a13533d61ex.htm",
+    "brandId": "2000563",
+    "originPriceMiss": true,
+    "year": "2014",
+    "month": "07",
+    "location": "北京",
+    "guaziOriginPrice": "9.76",
+    "focusNum": "103"
   },
   {
     "title": "北京EV系列 2014款 E150EV 科技版",
@@ -1492,7 +1592,8 @@
     "year": "2014",
     "month": "12",
     "location": "北京",
-    "guaziOriginPrice": "25.05"
+    "guaziOriginPrice": "25.05",
+    "focusNum": "83"
   },
   {
     "title": "福特福克斯 2012款 三厢 1.6L 自动风尚型",
@@ -1505,7 +1606,8 @@
     "year": "2012",
     "month": "10",
     "location": "北京",
-    "guaziOriginPrice": "15.62"
+    "guaziOriginPrice": "15.62",
+    "focusNum": "53"
   },
   {
     "title": "斯柯达晶锐 2009款 1.4L 自动晶灵版",
@@ -1518,7 +1620,8 @@
     "year": "2009",
     "month": "09",
     "location": "北京",
-    "guaziOriginPrice": "11.39"
+    "guaziOriginPrice": "11.39",
+    "focusNum": "183"
   },
   {
     "title": "大众桑塔纳 2015款 1.6L 自动风尚版",
@@ -1531,7 +1634,8 @@
     "year": "2016",
     "month": "07",
     "location": "北京",
-    "guaziOriginPrice": "10.84"
+    "guaziOriginPrice": "10.84",
+    "focusNum": "75"
   },
   {
     "title": "Smartsmart fortwo 2011款 1.0 MHD 硬顶标准版",
@@ -1544,7 +1648,8 @@
     "year": "2013",
     "month": "11",
     "location": "北京",
-    "guaziOriginPrice": "12.48"
+    "guaziOriginPrice": "12.48",
+    "focusNum": "49"
   },
   {
     "title": "Smartsmart fortwo 2009款 1.0 MHD 敞篷 style版",
@@ -1557,7 +1662,8 @@
     "year": "2010",
     "month": "06",
     "location": "北京",
-    "guaziOriginPrice": "22.36"
+    "guaziOriginPrice": "22.36",
+    "focusNum": "55"
   },
   {
     "title": "丰田花冠 2011款 1.6L 自动豪华版",
@@ -1570,7 +1676,8 @@
     "year": "2012",
     "month": "05",
     "location": "北京",
-    "guaziOriginPrice": "12.46"
+    "guaziOriginPrice": "12.46",
+    "focusNum": "57"
   },
   {
     "title": "斯柯达晶锐 2012款 1.6L Scout",
@@ -1583,7 +1690,8 @@
     "year": "2012",
     "month": "06",
     "location": "北京",
-    "guaziOriginPrice": "12.58"
+    "guaziOriginPrice": "12.58",
+    "focusNum": "19"
   },
   {
     "title": "江淮iEV 2015款 iEV5",
@@ -1596,7 +1704,8 @@
     "year": "2016",
     "month": "10",
     "location": "北京",
-    "guaziOriginPrice": "19.52"
+    "guaziOriginPrice": "19.52",
+    "focusNum": "15"
   },
   {
     "title": "北京EV系列 2016款 EV160 轻秀版",
@@ -1609,7 +1718,8 @@
     "year": "2016",
     "month": "04",
     "location": "北京",
-    "guaziOriginPrice": "20.61"
+    "guaziOriginPrice": "20.61",
+    "focusNum": "35"
   },
   {
     "title": "铃木雨燕 2015款 1.5L 自动限定版",
@@ -1622,7 +1732,8 @@
     "year": "2015",
     "month": "08",
     "location": "北京",
-    "guaziOriginPrice": "8.99"
+    "guaziOriginPrice": "8.99",
+    "focusNum": "81"
   },
   {
     "title": "北汽绅宝绅宝X55 2016款 1.5T CVT舒适版",
@@ -1635,7 +1746,8 @@
     "year": "2016",
     "month": "01",
     "location": "北京",
-    "guaziOriginPrice": "10.51"
+    "guaziOriginPrice": "10.51",
+    "focusNum": "75"
   },
   {
     "title": "长安CS35 2015款 1.6L 自动尊贵型 国V",
@@ -1648,7 +1760,8 @@
     "year": "2015",
     "month": "11",
     "location": "北京",
-    "guaziOriginPrice": "10.74"
+    "guaziOriginPrice": "10.74",
+    "focusNum": "27"
   },
   {
     "title": "江淮iEV 2014款 iEV4",
@@ -1661,7 +1774,8 @@
     "year": "2015",
     "month": "09",
     "location": "北京",
-    "guaziOriginPrice": "18.43"
+    "guaziOriginPrice": "18.43",
+    "focusNum": "35"
   },
   {
     "title": "江淮iEV 2015款 iEV5",
@@ -1674,7 +1788,8 @@
     "year": "2015",
     "month": "11",
     "location": "北京",
-    "guaziOriginPrice": "19.52"
+    "guaziOriginPrice": "19.52",
+    "focusNum": "41"
   },
   {
     "title": "知豆D2 2016款 D2S",
@@ -1687,7 +1802,8 @@
     "year": "2016",
     "month": "11",
     "location": "北京",
-    "guaziOriginPrice": "20.49"
+    "guaziOriginPrice": "20.49",
+    "focusNum": "65"
   },
   {
     "title": "奔腾B90 2012款 2.0L 自动舒适型",
@@ -1700,7 +1816,8 @@
     "year": "2013",
     "month": "11",
     "location": "北京",
-    "guaziOriginPrice": "16.26"
+    "guaziOriginPrice": "16.26",
+    "focusNum": "109"
   },
   {
     "title": "长安CS35 2014款 1.6L 自动豪华型 国IV",
@@ -1713,7 +1830,8 @@
     "year": "2015",
     "month": "01",
     "location": "北京",
-    "guaziOriginPrice": "10.08"
+    "guaziOriginPrice": "10.08",
+    "focusNum": "7"
   },
   {
     "title": "马自达3 2012款 1.6L 自动经典标准型",
@@ -1726,7 +1844,8 @@
     "year": "2012",
     "month": "08",
     "location": "北京",
-    "guaziOriginPrice": "12.24"
+    "guaziOriginPrice": "12.24",
+    "focusNum": "63"
   },
   {
     "title": "雪佛兰爱唯欧 2011款 三厢 1.6L AT SX",
@@ -1739,7 +1858,8 @@
     "year": "2012",
     "month": "10",
     "location": "北京",
-    "guaziOriginPrice": "12.14"
+    "guaziOriginPrice": "12.14",
+    "focusNum": "35"
   },
   {
     "title": "Smartsmart fortwo 2014款 1.0 MHD 硬顶城市光波激情版",
@@ -1752,7 +1872,8 @@
     "year": "2014",
     "month": "11",
     "location": "北京",
-    "guaziOriginPrice": "15.08"
+    "guaziOriginPrice": "15.08",
+    "focusNum": "63"
   },
   {
     "title": "北汽绅宝绅宝D60 2014款 1.8T 自动舒适型",
@@ -1765,7 +1886,8 @@
     "year": "2015",
     "month": "12",
     "location": "北京",
-    "guaziOriginPrice": "14.09"
+    "guaziOriginPrice": "14.09",
+    "focusNum": "57"
   },
   {
     "title": "铃木雨燕 2014款 1.5L 自动时尚型",
@@ -1778,7 +1900,8 @@
     "year": "2017",
     "month": "01",
     "location": "北京",
-    "guaziOriginPrice": "8.12"
+    "guaziOriginPrice": "8.12",
+    "focusNum": "87"
   },
   {
     "title": "雪佛兰科鲁兹 2013款 1.8L SE AT",
@@ -1791,7 +1914,8 @@
     "year": "2014",
     "month": "05",
     "location": "北京",
-    "guaziOriginPrice": "14.86"
+    "guaziOriginPrice": "14.86",
+    "focusNum": "231"
   },
   {
     "title": "长安CS35 2014款 1.6L 自动豪华型 国V",
@@ -1804,7 +1928,8 @@
     "year": "2014",
     "month": "11",
     "location": "北京",
-    "guaziOriginPrice": "10.19"
+    "guaziOriginPrice": "10.19",
+    "focusNum": "277"
   },
   {
     "title": "日产阳光 2011款 1.5XL CVT豪华版",
@@ -1817,7 +1942,8 @@
     "year": "2012",
     "month": "02",
     "location": "北京",
-    "guaziOriginPrice": "11.16"
+    "guaziOriginPrice": "11.16",
+    "focusNum": "111"
   },
   {
     "title": "本田飞度 2014款 1.5L LX CVT舒适型",
@@ -1830,7 +1956,8 @@
     "year": "2015",
     "month": "10",
     "location": "北京",
-    "guaziOriginPrice": "8.88"
+    "guaziOriginPrice": "8.88",
+    "focusNum": "545"
   },
   {
     "title": "标致308 2012款 1.6L 自动风尚型",
@@ -1843,7 +1970,8 @@
     "year": "2012",
     "month": "05",
     "location": "北京",
-    "guaziOriginPrice": "13.23"
+    "guaziOriginPrice": "13.23",
+    "focusNum": "117"
   },
   {
     "title": "福特福克斯 2012款 两厢 1.6L 自动舒适型",
@@ -1856,7 +1984,8 @@
     "year": "2014",
     "month": "05",
     "location": "北京",
-    "guaziOriginPrice": "14.21"
+    "guaziOriginPrice": "14.21",
+    "focusNum": "275"
   },
   {
     "title": "北京EV系列 2015款 EV160 轻快版",
@@ -1869,7 +1998,8 @@
     "year": "2015",
     "month": "09",
     "location": "北京",
-    "guaziOriginPrice": "19.20"
+    "guaziOriginPrice": "19.20",
+    "focusNum": "39"
   },
   {
     "title": "大众速腾 2010款 1.4TSI 自动豪华型",
@@ -1882,7 +2012,8 @@
     "year": "2010",
     "month": "12",
     "location": "北京",
-    "guaziOriginPrice": "18.43"
+    "guaziOriginPrice": "18.43",
+    "focusNum": "221"
   },
   {
     "title": "江淮iEV 2015款 iEV5",
@@ -1895,7 +2026,8 @@
     "year": "2015",
     "month": "11",
     "location": "北京",
-    "guaziOriginPrice": "19.52"
+    "guaziOriginPrice": "19.52",
+    "focusNum": "33"
   },
   {
     "title": "江淮iEV  2014款iEV4",
@@ -1908,7 +2040,8 @@
     "year": "2015",
     "month": "07",
     "location": "北京",
-    "guaziOriginPrice": "¥5.40            万"
+    "guaziOriginPrice": "¥5.40            万",
+    "focusNum": "65"
   },
   {
     "title": "江淮iEV 2014款 iEV4",
@@ -1921,6 +2054,7 @@
     "year": "2014",
     "month": "09",
     "location": "北京",
-    "guaziOriginPrice": "18.43"
+    "guaziOriginPrice": "18.43",
+    "focusNum": "101"
   }
 ]

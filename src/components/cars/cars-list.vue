@@ -17,6 +17,9 @@
       <el-table-column prop="usedAge" align="center" label="使用年限" min-width="150"
                        sortable>
       </el-table-column>
+      <el-table-column prop="focusNum" align="center" label="收藏数" min-width="150"
+                       sortable>
+      </el-table-column>
       <el-table-column prop="rate" align="center" label="出售价/新车价" min-width="150"
                        sortable>
       </el-table-column>

@@ -1,6 +1,7 @@
 /**
  * Created by Shan on 2017/7/16.
  */
+let dateFormat = require('./dateFormat').dateFormat
 var filterCars = require('./filterCars').filterCars
 let rademTimeGen = require('./rademTimeGen').rademTimeGen
 let getHtml = require('./getHtml').getHtml
@@ -9,7 +10,7 @@ var Promise = require('bluebird')
 // var https = require('https')
 // let fs = require('fs')
 // let recordFile = './src/static-data/car-info.json'
-let recordFile = 'car-info.json'
+let recordFile = 'car-info' + dateFormat(new Date(), '{y}{m}{d}') + '.json'
 let times = 0
 function recordCars ({urls, carInfo}) {
   let url = urls.shift()
@@ -17,7 +18,7 @@ function recordCars ({urls, carInfo}) {
     return filterCars(html)
   }).then(e => {
     let newCarsInfo = e.newCarsInfo
-    console.log('newCarsInfo.length = ',newCarsInfo.length)
+    console.log('newCarsInfo.length = ', newCarsInfo.length)
     carInfo = carInfo.concat(newCarsInfo)
     return writeFileAsync(recordFile, carInfo)
   }).then(e => {

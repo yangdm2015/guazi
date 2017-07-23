@@ -1,7 +1,7 @@
 /**
  * Created by Shan on 2017/7/15.
  */
-'use strict';
+'use strict'
 // let Promise = require("bluebird");
 // let brandList = require('../../src/static-data/brandList').brandList
 let fs = require('fs')
@@ -13,8 +13,12 @@ let urlInit = 'https://www.guazi.com/bj/buy/#bread'
 let urlTest = 'https://www.guazi.com/bj/buy/#bread'
 let getCarArryDetail = require('./getCarArryDetail').getCarArryDetail
 let getCarBrandId = require('./getCarBrandId').getCarBrandId
-function crawler () {
+let dateFormat = require('./dateFormat').dateFormat
+let proxy = require('./proxy').proxy
+let testProxy = require('./getProxyLIst').testProxy
 
+function crawler () {
+  // proxy()
   // getHtml(urlInit)
   //   .then(html => {
   //     console.log('html back')
@@ -25,7 +29,18 @@ function crawler () {
   //   }).catch(e => {
   //     console.log('e = ', e)
   //   })
+  // carsJsongen()
+  // let s = dateFormat(new Date(), '{y}{m}{d}{h}')
+  // console.log('s = ', s)
+  testProxy()
+  // testProxy().then(l =>{
+  //   console.log('l = ',l)
+  // })
 
-  carsJsongen()
+  // proxy({host: '58.222.254.11', port: '3128'}).then(e => {
+  //   console.log('e = ', e)
+  // }, e => {
+  //   console.log('err!!,e = ', e)
+  // })
 }
 exports.crawler = crawler
