@@ -15,8 +15,10 @@ let getCarArryDetail = require('./getCarArryDetail').getCarArryDetail
 let getCarBrandId = require('./getCarBrandId').getCarBrandId
 let dateFormat = require('./dateFormat').dateFormat
 let proxy = require('./proxy').proxy
-let testProxy = require('./getProxyLIst').testProxy
-
+let testProxy = require('./getProxyLIst1').testProxy
+let testGoubanjiaProxy = require('./getProxyLIst1').testGoubanjiaProxy
+let testxicidailiProxy = require('./getProxyLIst1').testxicidailiProxy
+let cheerioTest = require('./cheerioTest').cheerioTest
 function crawler () {
   // proxy()
   // getHtml(urlInit)
@@ -32,9 +34,10 @@ function crawler () {
   // carsJsongen()
   // let s = dateFormat(new Date(), '{y}{m}{d}{h}')
   // console.log('s = ', s)
-  testProxy()
-  // testProxy().then(l =>{
-  //   console.log('l = ',l)
+  testxicidailiProxy()
+  // cheerioTest()
+  // testProxy().then(l => {
+  //   console.log('l = ', l)
   // })
 
   // proxy({host: '58.222.254.11', port: '3128'}).then(e => {

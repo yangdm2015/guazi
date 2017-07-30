@@ -11,7 +11,8 @@ var apiRoutes = express.Router()
 var webpack = require('webpack')
 var proxyMiddleware = require('http-proxy-middleware')
 var webpackConfig = require('./webpack.dev.conf')
-
+var mongoset = require('./db/mongoset')
+mongoset.init()
 // default port where dev server listens for incoming traffic
 var port = process.env.PORT || config.dev.port
 // automatically open browser, if not set will be false
